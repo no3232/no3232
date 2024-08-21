@@ -2,7 +2,7 @@
 
   ### Techs.
   <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=nextdotjs&logoColor=#000000"/>
+    <img src="https://img.shields.io/badge/nextdotjs-#000000?style=flat&logo=nextjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
