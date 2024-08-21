@@ -2,17 +2,19 @@
 
   ### Techs.
   <p align="center">
-    <img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/
+    <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   </p>
    <p align="center">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-     <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   </p>
   <p align="center">
-     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
   </p>
