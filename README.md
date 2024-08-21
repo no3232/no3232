@@ -5,8 +5,12 @@
     <img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-    
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/
+  </p>
+   <p align="center">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+     <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+     
   </p>
   <p align="center">
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
