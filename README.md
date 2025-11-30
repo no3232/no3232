@@ -18,12 +18,14 @@ Next.js 기반 웹서비스, 인증 구조(httpOnly 쿠키),
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 ### State & Data
-![Zustand](https://img.shields.io/badge/Zustand-4E5D94?logo=react&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-000000?logo=vercel&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4E5D94?logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
+
 
 ### UI / Style
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
